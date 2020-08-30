@@ -10,7 +10,7 @@ Hi there! This is Hejie, a Computer Science PhD student in Data Mining.
 
 #### Languages and Tools
 
-![tex.png](https://raw.githubusercontent.com/HennyJie/FHennyJie/master/assets/tex.png)
+![tex.png](https://raw.githubusercontent.com/HennyJie/HennyJie/master/assets/tex.png)
 ![python.png](https://raw.githubusercontent.com/HennyJie/HennyJie/master/assets/python.png)
 ![jupyter.png](https://raw.githubusercontent.com/HennyJie/HennyJie/master/assets/jupyter.png)
 ![vscode.png](https://raw.githubusercontent.com/HennyJie/HennyJie/master/assets/vscode.png)
