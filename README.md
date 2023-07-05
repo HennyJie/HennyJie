@@ -26,7 +26,7 @@ Hi there! This is Hejie, a Computer Science PhD student in Data Mining.
 
 #### My Github States
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HennyJie&show_icons=true&count_private=true&hide=stars)
+<!---![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HennyJie&show_icons=true&count_private=true&hide=stars)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HennyJie&layout=compact)
 
