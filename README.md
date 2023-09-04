@@ -2,10 +2,9 @@
 
 Hi there! This is Hejie, a Computer Science PhD student in Data Mining.
 
-- 🧐 I am studying Graph Data Mining, Graph Neural Networks, Applied Machine Learning on Graphs.
-- 🤓 I am always open for possible academic discussion and remote collaborations, feel free to shoot me an e-mail at cuihejie331771@gmail.com.
+- 🧐 I am studying Graph Mining, Multimodality, and AI for Health.
+- 🤓 I am open to research discussions and potential collaborations, feel free to reach out to me.
 - 🤩 Here is my personal homepage! [Homepage](https://hejiecui.com/)
-- 🥳 Feel free to ask me about anything [here!](https://github.com/HennyJie/HennyJie/issues)
 
 
 #### Languages and Tools
